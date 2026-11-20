@@ -162,3 +162,5 @@ npx serve .
 - Follows clean modular JavaScript architecture (`initializeQuiz`, `startQuiz`, `renderQuestion`, `selectAnswer`, `nextQuestion`, `previousQuestion`, `updateProgress`, `calculateScore`, `submitQuiz`, `displayResults`, `restartQuiz`).
 - Pure Vanilla JavaScript without any frameworks or external library dependencies.
 - Meets all requirements for **Auspify Technologies Internship – Task 4 (Medium)**.
+#   o n l i n e - q u i z - a p p l i c a t i o n  
+ 
